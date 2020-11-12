@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0" tests="5" failures="5">
+  <testsuite name="Root Suite" timestamp="2019-06-14T03:41:37" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Unsuccessful signup feature" timestamp="2019-06-14T03:41:37" tests="5" failures="5" time="0">
+    <testcase name="Unsuccessful signup feature User cannot sign up with a invalid user name or password" time="0" classname="User cannot sign up with a invalid user name or password">
+      <failure message="Step implementation missing for: I am on the sign up page" type="Error"><![CDATA[Error: Step implementation missing for: I am on the sign up page
+    at Context.resolveAndRunStepDefinition (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-366:5980:11)
+    at Context.stepTest (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-366:5734:31)
+    at https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-366:5779:47
+    at Array.forEach (<anonymous>)
+    at Context.<anonymous> (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-366:5779:22)]]></failure>
+    </testcase>
+    <testcase name="Unsuccessful signup feature User cannot sign up with a invalid user name or password" time="0" classname="User cannot sign up with a invalid user name or password">
+      <failure message="Step implementation missing for: I am on the sign up page" type="Error"><![CDATA[Error: Step implementation missing for: I am on the sign up page
+    at Context.resolveAndRunStepDefinition (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-366:5980:11)
+    at Context.stepTest (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-366:5734:31)
+    at https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-366:5779:47
+    at Array.forEach (<anonymous>)
+    at Context.<anonymous> (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-366:5779:22)]]></failure>
+    </testcase>
+    <testcase name="Unsuccessful signup feature User cannot sign up with a invalid user name or password" time="0" classname="User cannot sign up with a invalid user name or password">
+      <failure message="Step implementation missing for: I am on the sign up page" type="Error"><![CDATA[Error: Step implementation missing for: I am on the sign up page
+    at Context.resolveAndRunStepDefinition (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-366:5980:11)
+    at Context.stepTest (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-366:5734:31)
+    at https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-366:5779:47
+    at Array.forEach (<anonymous>)
+    at Context.<anonymous> (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-366:5779:22)]]></failure>
+    </testcase>
+    <testcase name="Unsuccessful signup feature User cannot sign up with a invalid user name or password" time="0" classname="User cannot sign up with a invalid user name or password">
+      <failure message="Step implementation missing for: I am on the sign up page" type="Error"><![CDATA[Error: Step implementation missing for: I am on the sign up page
+    at Context.resolveAndRunStepDefinition (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-366:5980:11)
+    at Context.stepTest (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-366:5734:31)
+    at https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-366:5779:47
+    at Array.forEach (<anonymous>)
+    at Context.<anonymous> (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-366:5779:22)]]></failure>
+    </testcase>
+    <testcase name="Unsuccessful signup feature User cannot sign up with a invalid user name or password" time="0" classname="User cannot sign up with a invalid user name or password">
+      <failure message="Step implementation missing for: I am on the sign up page" type="Error"><![CDATA[Error: Step implementation missing for: I am on the sign up page
+    at Context.resolveAndRunStepDefinition (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-366:5980:11)
+    at Context.stepTest (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-366:5734:31)
+    at https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-366:5779:47
+    at Array.forEach (<anonymous>)
+    at Context.<anonymous> (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-366:5779:22)]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="12.290000000000001" tests="5" failures="0">
+  <testsuite name="Root Suite" timestamp="2019-06-14T01:11:27" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Unsuccessful signup feature" timestamp="2019-06-14T01:11:27" tests="5" failures="0" time="12.290000000000001">
+    <testcase name="Unsuccessful signup feature User cannot sign up with a invalid user name or password" time="5.668" classname="User cannot sign up with a invalid user name or password">
+    </testcase>
+    <testcase name="Unsuccessful signup feature User cannot sign up with a invalid user name or password" time="1.691" classname="User cannot sign up with a invalid user name or password">
+    </testcase>
+    <testcase name="Unsuccessful signup feature User cannot sign up with a invalid user name or password" time="1.653" classname="User cannot sign up with a invalid user name or password">
+    </testcase>
+    <testcase name="Unsuccessful signup feature User cannot sign up with a invalid user name or password" time="1.688" classname="User cannot sign up with a invalid user name or password">
+    </testcase>
+    <testcase name="Unsuccessful signup feature User cannot sign up with a invalid user name or password" time="1.59" classname="User cannot sign up with a invalid user name or password">
+    </testcase>
+  </testsuite>
+</testsuites>

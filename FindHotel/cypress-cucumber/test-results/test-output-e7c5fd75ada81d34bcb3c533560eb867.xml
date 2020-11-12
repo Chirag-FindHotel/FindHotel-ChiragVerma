@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="12.796000000000001" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2019-06-14T03:53:55" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Unsuccessful signup feature with already used phonenumber" timestamp="2019-06-14T03:53:55" tests="2" failures="0" time="12.796000000000001">
+    <testcase name="Unsuccessful signup feature with already used phonenumber User cannot sign up with a already used phone number" time="8.114" classname="User cannot sign up with a already used phone number">
+    </testcase>
+    <testcase name="Unsuccessful signup feature with already used phonenumber User cannot sign up with a invalid phone number" time="4.682" classname="User cannot sign up with a invalid phone number">
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0" tests="1" failures="1">
+  <testsuite name="Root Suite" timestamp="2019-06-13T22:52:02" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Unsuccessful signup feature" timestamp="2019-06-13T22:52:03" tests="1" failures="1" time="0">
+    <testcase name="Unsuccessful signup feature User cannot sign up with a invalid user name or password" time="0" classname="User cannot sign up with a invalid user name or password">
+      <failure message="Step implementation missing for: I am on the sign up page" type="Error"><![CDATA[Error: Step implementation missing for: I am on the sign up page
+    at Context.resolveAndRunStepDefinition (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-271:6108:11)
+    at Context.stepTest (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-271:5862:31)
+    at https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-271:5907:47
+    at Array.forEach (<anonymous>)
+    at Context.<anonymous> (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-271:5907:22)]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>

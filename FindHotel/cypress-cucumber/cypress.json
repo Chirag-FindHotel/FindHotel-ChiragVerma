@@ -1,0 +1,9 @@
+{
+  "baseUrl": "https://re-search-qa-33cc7425.shared-prod.fih.io/",
+  "ignoreTestFiles": ["*.js", "*.md"],
+  "reporter": "junit",
+  "reporterOptions": {
+    "mochaFile": "test-results/test-output-[hash].xml"
+  },
+  "chromeWebSecurity": false
+}

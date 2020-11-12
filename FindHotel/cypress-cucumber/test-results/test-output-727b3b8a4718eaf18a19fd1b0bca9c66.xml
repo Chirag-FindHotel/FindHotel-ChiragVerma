@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="12.040000000000001" tests="5" failures="2">
+  <testsuite name="Root Suite" timestamp="2019-06-13T23:19:02" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Unsuccessful signup feature" timestamp="2019-06-13T23:19:02" tests="5" failures="2" time="12.040000000000001">
+    <testcase name="Unsuccessful signup feature User cannot sign up with a invalid user name or password" time="6.161" classname="User cannot sign up with a invalid user name or password">
+    </testcase>
+    <testcase name="Unsuccessful signup feature User cannot sign up with a invalid user name or password" time="2.886" classname="User cannot sign up with a invalid user name or password">
+    </testcase>
+    <testcase name="Unsuccessful signup feature User cannot sign up with a invalid user name or password" time="2.993" classname="User cannot sign up with a invalid user name or password">
+    </testcase>
+    <testcase name="Unsuccessful signup feature User cannot sign up with a invalid user name or password" time="0" classname="User cannot sign up with a invalid user name or password">
+      <failure message="Timed out retrying: Expected to find content: &apos;Too weak&apos; but never did." type="CypressError"><![CDATA[CypressError: Timed out retrying: Expected to find content: 'Too weak' but never did.
+    at Object.cypressErr (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:83220:11)
+    at Object.throwErr (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:83185:18)
+    at Object.throwErrByPath (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:83212:17)
+    at retry (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:76640:16)
+    at https://welcome.kapten.com/__cypress/runner/cypress_runner.js:68612:18
+    at tryCatcher (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:132142:23)
+    at Promise._settlePromiseFromHandler (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:130160:31)
+    at Promise._settlePromise (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:130217:18)
+    at Promise._settlePromise0 (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:130262:10)
+    at Promise._settlePromises (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:130337:18)
+    at Async._drainQueue (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:127066:16)
+    at Async._drainQueues (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:127076:10)
+    at Async.drainQueues (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:126950:14)]]></failure>
+    </testcase>
+    <testcase name="Unsuccessful signup feature User cannot sign up with a invalid user name or password" time="0" classname="User cannot sign up with a invalid user name or password">
+      <failure message="Timed out retrying: Expected to find content: &apos;Too weak&apos; but never did." type="CypressError"><![CDATA[CypressError: Timed out retrying: Expected to find content: 'Too weak' but never did.
+    at Object.cypressErr (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:83220:11)
+    at Object.throwErr (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:83185:18)
+    at Object.throwErrByPath (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:83212:17)
+    at retry (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:76640:16)
+    at https://welcome.kapten.com/__cypress/runner/cypress_runner.js:68612:18
+    at tryCatcher (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:132142:23)
+    at Promise._settlePromiseFromHandler (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:130160:31)
+    at Promise._settlePromise (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:130217:18)
+    at Promise._settlePromise0 (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:130262:10)
+    at Promise._settlePromises (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:130337:18)
+    at Async._drainQueue (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:127066:16)
+    at Async._drainQueues (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:127076:10)
+    at Async.drainQueues (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:126950:14)]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>

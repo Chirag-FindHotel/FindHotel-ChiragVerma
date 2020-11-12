@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0" tests="1" failures="1">
+  <testsuite name="Root Suite" timestamp="2019-06-13T20:55:28" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Successful login feature" timestamp="2019-06-13T20:55:28" tests="1" failures="1" time="0">
+    <testcase name="Successful login feature User can sign in with a valid user name and password" time="0" classname="User can sign in with a valid user name and password">
+      <failure message="Oops, it looks like you are trying to call a child command before running a parent command.
+
+You wrote code that looks like this:
+
+cy.type(&quot;{enter}&quot;)
+
+A child command must be chained after a parent because it operates on a previous subject.
+
+For example - if we were issuing the child command &apos;click&apos;...
+
+cy
+  .get(&apos;button&apos;) // parent command must come first
+  .click()       // then child command comes second
+" type="CypressError"><![CDATA[CypressError: Oops, it looks like you are trying to call a child command before running a parent command.
+
+You wrote code that looks like this:
+
+cy.type("{enter}")
+
+A child command must be chained after a parent because it operates on a previous subject.
+
+For example - if we were issuing the child command 'click'...
+
+cy
+  .get('button') // parent command must come first
+  .click()       // then child command comes second
+
+    at Object.cypressErr (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:83220:11)
+    at Object.throwErr (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:83185:18)
+    at Object.throwErrByPath (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:83212:17)
+    at pushSubjectAndValidate (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:78840:16)
+    at Context.<anonymous> (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:79013:18)
+    at https://welcome.kapten.com/__cypress/runner/cypress_runner.js:78719:33
+    at tryCatcher (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:132142:23)
+    at Promise._settlePromiseFromHandler (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:130160:31)
+    at Promise._settlePromise (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:130217:18)
+    at Promise._settlePromiseCtx (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:130254:10)
+    at Async._drainQueue (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:127071:12)
+    at Async._drainQueues (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:127076:10)
+    at Async.drainQueues (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:126950:14)]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>
