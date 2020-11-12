@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0" tests="1" failures="1">
+  <testsuite name="Root Suite" timestamp="2019-06-13T21:36:14" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Feel Lucky" timestamp="2019-06-13T21:36:14" tests="1" failures="1" time="0">
+    <testcase name="Feel Lucky Feel Lucky" time="0" classname="Feel Lucky">
+      <failure message="SEARCH_FIELD is not defined" type="ReferenceError"><![CDATA[ReferenceError: SEARCH_FIELD is not defined
+    at Function.type (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/feel-lucky.feature-327:138:14)
+    at Context.<anonymous> (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/feel-lucky.feature-327:14:29)
+    at Context.resolveAndRunStepDefinition (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/feel-lucky.feature-327:6112:9)
+    at Context.stepTest (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/feel-lucky.feature-327:5869:31)
+    at https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/feel-lucky.feature-327:5914:47
+    at Array.forEach (<anonymous>)
+    at Context.<anonymous> (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/feel-lucky.feature-327:5914:22)]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>

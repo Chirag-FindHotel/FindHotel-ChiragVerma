@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0" tests="5" failures="5">
+  <testsuite name="Root Suite" timestamp="2019-06-13T23:35:10" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Unsuccessful signup feature" timestamp="2019-06-13T23:35:11" tests="5" failures="5" time="0">
+    <testcase name="Unsuccessful signup feature User cannot sign up with a invalid user name or password" time="0" classname="User cannot sign up with a invalid user name or password">
+      <failure message="_googleSearchPage.default.visitSignIn is not a function" type="TypeError"><![CDATA[TypeError: _googleSearchPage.default.visitSignIn is not a function
+    at Context.<anonymous> (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-049:70:29)
+    at Context.resolveAndRunStepDefinition (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-049:6128:9)
+    at Context.stepTest (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-049:5885:31)
+    at https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-049:5930:47
+    at Array.forEach (<anonymous>)
+    at Context.<anonymous> (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-049:5930:22)]]></failure>
+    </testcase>
+    <testcase name="Unsuccessful signup feature User cannot sign up with a invalid user name or password" time="0" classname="User cannot sign up with a invalid user name or password">
+      <failure message="_googleSearchPage.default.visitSignIn is not a function" type="TypeError"><![CDATA[TypeError: _googleSearchPage.default.visitSignIn is not a function
+    at Context.<anonymous> (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-049:70:29)
+    at Context.resolveAndRunStepDefinition (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-049:6128:9)
+    at Context.stepTest (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-049:5885:31)
+    at https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-049:5930:47
+    at Array.forEach (<anonymous>)
+    at Context.<anonymous> (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-049:5930:22)]]></failure>
+    </testcase>
+    <testcase name="Unsuccessful signup feature User cannot sign up with a invalid user name or password" time="0" classname="User cannot sign up with a invalid user name or password">
+      <failure message="_googleSearchPage.default.visitSignIn is not a function" type="TypeError"><![CDATA[TypeError: _googleSearchPage.default.visitSignIn is not a function
+    at Context.<anonymous> (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-049:70:29)
+    at Context.resolveAndRunStepDefinition (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-049:6128:9)
+    at Context.stepTest (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-049:5885:31)
+    at https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-049:5930:47
+    at Array.forEach (<anonymous>)
+    at Context.<anonymous> (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-049:5930:22)]]></failure>
+    </testcase>
+    <testcase name="Unsuccessful signup feature User cannot sign up with a invalid user name or password" time="0" classname="User cannot sign up with a invalid user name or password">
+      <failure message="_googleSearchPage.default.visitSignIn is not a function" type="TypeError"><![CDATA[TypeError: _googleSearchPage.default.visitSignIn is not a function
+    at Context.<anonymous> (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-049:70:29)
+    at Context.resolveAndRunStepDefinition (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-049:6128:9)
+    at Context.stepTest (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-049:5885:31)
+    at https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-049:5930:47
+    at Array.forEach (<anonymous>)
+    at Context.<anonymous> (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-049:5930:22)]]></failure>
+    </testcase>
+    <testcase name="Unsuccessful signup feature User cannot sign up with a invalid user name or password" time="0" classname="User cannot sign up with a invalid user name or password">
+      <failure message="_googleSearchPage.default.visitSignIn is not a function" type="TypeError"><![CDATA[TypeError: _googleSearchPage.default.visitSignIn is not a function
+    at Context.<anonymous> (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-049:70:29)
+    at Context.resolveAndRunStepDefinition (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-049:6128:9)
+    at Context.stepTest (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-049:5885:31)
+    at https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-049:5930:47
+    at Array.forEach (<anonymous>)
+    at Context.<anonymous> (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-negative.feature-049:5930:22)]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>

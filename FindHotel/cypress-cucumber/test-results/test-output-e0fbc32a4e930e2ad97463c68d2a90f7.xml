@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0" tests="1" failures="1">
+  <testsuite name="Root Suite" timestamp="2019-06-13T16:55:18" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Forget password feature" timestamp="2019-06-13T16:55:18" tests="1" failures="1" time="0">
+    <testcase name="Forget password feature Forgot password feature works" time="0" classname="Forgot password feature works">
+      <failure message="Step implementation missing for: I click on Forgotten password" type="Error"><![CDATA[Error: Step implementation missing for: I click on Forgotten password
+    at Context.resolveAndRunStepDefinition (https://www.google.com/__cypress/tests?p=cypress/integration/sign-in/feel-lucky.feature-013:6147:11)
+    at Context.stepTest (https://www.google.com/__cypress/tests?p=cypress/integration/sign-in/feel-lucky.feature-013:5901:31)
+    at https://www.google.com/__cypress/tests?p=cypress/integration/sign-in/feel-lucky.feature-013:5946:47
+    at Array.forEach (<anonymous>)
+    at Context.<anonymous> (https://www.google.com/__cypress/tests?p=cypress/integration/sign-in/feel-lucky.feature-013:5946:22)]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>

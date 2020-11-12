@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0" tests="1" failures="1">
+  <testsuite name="Root Suite" timestamp="2019-06-13T19:55:46" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Search Google" timestamp="2019-06-13T19:55:46" tests="1" failures="1" time="0">
+    <testcase name="Search Google Common search" time="0" classname="Common search">
+      <failure message="Timed out retrying: Expected to find element: &apos;input[type=text]&apos;, but never found it." type="CypressError"><![CDATA[CypressError: Timed out retrying: Expected to find element: 'input[type=text]', but never found it.
+    at Object.cypressErr (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:83220:11)
+    at Object.throwErr (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:83185:18)
+    at Object.throwErrByPath (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:83212:17)
+    at retry (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:76640:16)
+    at https://welcome.kapten.com/__cypress/runner/cypress_runner.js:68612:18
+    at tryCatcher (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:132142:23)
+    at Promise._settlePromiseFromHandler (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:130160:31)
+    at Promise._settlePromise (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:130217:18)
+    at Promise._settlePromise0 (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:130262:10)
+    at Promise._settlePromises (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:130337:18)
+    at Async._drainQueue (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:127066:16)
+    at Async._drainQueues (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:127076:10)
+    at Async.drainQueues (https://welcome.kapten.com/__cypress/runner/cypress_runner.js:126950:14)]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>

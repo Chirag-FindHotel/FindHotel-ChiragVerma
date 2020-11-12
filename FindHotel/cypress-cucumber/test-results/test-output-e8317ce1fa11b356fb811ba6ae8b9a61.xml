@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0" tests="1" failures="1">
+  <testsuite name="Root Suite" timestamp="2019-06-14T02:46:29" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Unsuccessful signup with already used phone number" timestamp="2019-06-14T02:46:29" tests="1" failures="1" time="0">
+    <testcase name="Unsuccessful signup with already used phone number User cannot sign up with a already used phone number" time="0" classname="User cannot sign up with a already used phone number">
+      <failure message="Step implementation missing for: I am on the sign up page" type="Error"><![CDATA[Error: Step implementation missing for: I am on the sign up page
+    at Context.resolveAndRunStepDefinition (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-phone.feature-649:5926:11)
+    at Context.stepTest (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-phone.feature-649:5680:31)
+    at https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-phone.feature-649:5725:47
+    at Array.forEach (<anonymous>)
+    at Context.<anonymous> (https://welcome.kapten.com/__cypress/tests?p=cypress/integration/sign-up/sign-up-phone.feature-649:5725:22)]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>
